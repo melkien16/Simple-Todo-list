@@ -22,3 +22,17 @@
   background: #fad0ec;
   border-color: #8b005d;
 }
+
+.isInvalid {
+  border: 1px solid #ff0000;
+  background: #ffd7d7;
+}
+
+.invalidLabel {
+  color: #ff0000;
+  margin-bottom: 0.5rem;
+}
+
+.invalidForm {
+  background: #ffd7d7;
+}
